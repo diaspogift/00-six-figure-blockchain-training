@@ -1,0 +1,39 @@
+-- LECTURE/COURSE NOTES
+
+-- Section 1 blockchain & Ethereum
+
+* Read the blockchain white paper to master the Proof of work algorithm. 
+
+
+
+
+
+
+
+
+
+-- Section 2 Decentralised Applications
+
+
+
+
+
+
+
+
+-- blockchain developement 
+
+
+
+* Variables
+
+    uint?
+    address?
+    bool 
+    ...
+
+
+
+
+-- YouTube NOTES
+
